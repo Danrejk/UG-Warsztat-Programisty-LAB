@@ -1,0 +1,14 @@
+Na tych zajęciach głównie operujemy na repo UG-git-conflict-lab.
+
+Zadanie 1:
+zrobiłem git fetch i git merge
+
+Zadanie 2:
+git fetch
+git merge
+wchodze w plik.txt i go naprawiam
+git commit
+git push
+
+Zadanie 3:
+lowkey to samo co w zad 2
