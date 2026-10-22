@@ -1,0 +1,3 @@
+3
+
+generalnie to wypisuje ilosc linijek. i ten caly output cat jest feedowany do pliku czli tak jak myslalem przekierowujesz to poprostu
