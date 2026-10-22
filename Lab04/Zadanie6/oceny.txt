@@ -1,0 +1,5 @@
+Jan;5
+Anna;4
+Piotr;5
+Jan;3
+Anna;5

@@ -1,0 +1,1 @@
+wbijam z echo do pliku, potem z pliku sortuje, usuwam duplikaty, licze te liczby i zapisuje w wynik.txt i tyle
