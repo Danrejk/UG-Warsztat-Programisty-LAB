@@ -1,0 +1,2 @@
+> zastepuje zawartosc pliku
+>> robi append
