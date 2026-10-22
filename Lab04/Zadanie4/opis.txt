@@ -1,1 +1,2 @@
 no generalnie ten | to przekazuje dalej 
+i ten tee zapisuje plik i potem moge jego contnent  przekazac
