@@ -1,0 +1,8 @@
+> zmienia content pliku
+>> appenduje content pliku
+< czeka na input z klawiatury dostaje
+| przekazuje wartosc dalej jak oparametr
+
+tee, cat, cd, mkdir, rm, cp, cut, bash, nano, sort, uniq, wc, chyba tyle
+
+najbardziej przydatne to no nie wiem wsyzstko przydatne, wybieram cut, bo jak bede mial sqlite np.
