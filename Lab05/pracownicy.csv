@@ -1,0 +1,11 @@
+id,imie,nazwisko,miasto_urodzenia,data_urodzenia,telefon
+1,Jan,Kowalski,Warszawa,1985-03-12,600123456
+2,Agnieszka,Nowak,Kraków,1990-07-01,601987654
+3,Piotr,Wiśniewski,Gdańsk,1988-02-20,602345678
+4,Anna,Warska,Warszawa,1993-09-15,603555666
+5,Robert,Krakowski,Wrocław,1981-12-05,604111222
+6,Ewa,Gdańska,Poznań,1989-06-30,605999888
+7,Michał,Brzeskiewski,Gdynia,1995-11-10,606222333
+8,Jan Antoni,Wasilewski,Gdańsk,1986-10-22,607333444
+9,Paweł Brzeskisław,Wroński,Warszawa,1984-01-08,608444555
+10,ProblemAtyczny,skiskaA,Testowo,1999-09-09,609999999
