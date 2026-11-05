@@ -1,0 +1,1 @@
+cut -d"," -f2,3 pracownicy.csv | grep -E -i "([a-ząćęłńóśźż]),.*\1$"
