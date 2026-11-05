@@ -1,0 +1,1 @@
+cut -d"," -f6 pracownicy.csv | grep -E "([0-9])\1{2}\b"

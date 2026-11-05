@@ -1,0 +1,1 @@
+grep -Ei "\bkot\b|\bkotek\b" wiersz.txt tekst.txt 

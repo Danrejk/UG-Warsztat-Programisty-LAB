@@ -1,0 +1,1 @@
+grep -n "pies" tekst.txt | cut -d":" -f1

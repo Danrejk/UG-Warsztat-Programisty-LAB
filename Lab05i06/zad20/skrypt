@@ -1,0 +1,1 @@
+cut -d"," -f3 pracownicy.csv | grep -Ev "ski\b|ska\b" | grep -E "ski|ska"

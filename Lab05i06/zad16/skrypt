@@ -1,0 +1,1 @@
+grep -Ei "\b[A-Za-ząęółżźćńĄĘÓŁŻŹĆŃ]{6}" wiersz.txt 

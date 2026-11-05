@@ -1,0 +1,1 @@
+cut -d"," -f2,3,5 pracownicy.csv | grep -E "198[0-9]"

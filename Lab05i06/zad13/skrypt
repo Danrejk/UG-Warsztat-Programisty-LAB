@@ -1,0 +1,2 @@
+grep -wE "kot|pies" tekst.txt
+

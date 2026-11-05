@@ -1,0 +1,1 @@
+grep -Ei "\bK." wiersz.txt 

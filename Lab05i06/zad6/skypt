@@ -1,0 +1,1 @@
+grep "kot" tekst.txt | wc -l| cut -d" " -f1
